@@ -1,0 +1,10 @@
+df_clean:			Base de datos biológica purgada. Contiene los registros históricos originales de captura de hormigas 
+				tras la corrección de anomalías cronológicas, imputación de fechas logísticas y eliminación de registros 
+				duplicados.
+
+df_clima:			Series temporales de las variables climáticas creadas en función de las colecciones previamente definidas.
+df_zero_filled: 		Dataset en formato especie x temporada x trampa x estación x año, rellenado con ceros donde corresponda.
+dfClimateDay_interp: 		Registros diarios (2000-01-01 a 2019-12-31) de las variables climatológicas con interpolación.
+dfClimateDay_pre_interp: 	Registros diarios (2000-01-01 a 2019-12-31) de las variables climatológicas sin interpolación.
+nino:				Dataframe de los registros mensuales del índice macroclimático del Niño
+oni:				Dataframe de los registros mensuales del índice macroclimático del Océanico.

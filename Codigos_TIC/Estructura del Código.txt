@@ -1,0 +1,26 @@
+TIC2026A/
+│
+├── 1. Data/                  
+│   ├── Originales/         # Datasets originales 
+│   └── Procesadas/         # Datasets limpios
+│
+├── 2. Librerias - Funciones/                     
+│   ├── Librerias.R       		# Librerías usadas en el Trabajo de Integración Curricular.
+│   ├── Funciones Auxiliares.R     	# Funciones auxiliares.
+│
+├── 3. Scripts/               
+│   ├── 01_Depuracion_y_Tratamiento.R           
+│   ├── 02_Analisis_Exploratorio.R   
+│   └── 03_Analisis_Estacionariedad.R   
+    ___ 04_Analisis_Sincronia
+    ___ 05 Ajuste del modelo
+
+│
+├── 4. Outputs/               
+│   ├── Figuras/           
+│   ├── Tablas/           
+│   └── Modelos/           
+│
+├── main.R                
+├── .gitignore           
+└── README.md              
