@@ -13,14 +13,6 @@ TIC2026A/
 │   ├── 02_Analisis_Exploratorio.R   
 │   └── 03_Analisis_Estacionariedad.R   
     ___ 04_Analisis_Sincronia
-    ___ 05 Ajuste del modelo
-
-│
-├── 4. Outputs/               
-│   ├── Figuras/           
-│   ├── Tablas/           
-│   └── Modelos/           
-│
-├── main.R                
-├── .gitignore           
+    ___ 05 Ajuste del modelo        
+│                  
 └── README.md              
